@@ -1,0 +1,4 @@
+pymysql
+pillow
+cx_oracle
+virtualenv
